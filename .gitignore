@@ -17,9 +17,7 @@ coverage
 /locale
 /plugin
 /esm
-/index.d.ts
 locale.json
-/lib/*.js
 
 #dev
 demo.js
