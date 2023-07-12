@@ -1,6 +1,6 @@
 {
   "name": "aliyun-nls-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Aliyun NLS(Natural Language Processing) JavaScript SDK for the Browser",
   "main": "index.js",
   "scripts": {
